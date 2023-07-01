@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">madpractical</string>
+    <string name="user_name_textview_placeholder_text">Hello World!</string>
+    <string name="user_description_textview_placeholder_text">
+        Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    </string>
+    <string name="follow_button_text">FOLLOW</string>
+    <string name="message_button_text">MESSAGE</string>
+    <string name="unfollow_button_text">UNFOLLOW</string>
+</resources>
