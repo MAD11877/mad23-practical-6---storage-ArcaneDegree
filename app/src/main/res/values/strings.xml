@@ -7,4 +7,8 @@
     <string name="follow_button_text">FOLLOW</string>
     <string name="message_button_text">MESSAGE</string>
     <string name="unfollow_button_text">UNFOLLOW</string>
+    <string name="login_activity_header_text">Login Page</string>
+    <string name="username_field_text">Username:</string>
+    <string name="password_field_text">Password:</string>
+    <string name="login_text">Login</string>
 </resources>
